@@ -7,4 +7,3 @@
    ```python
    print("Cica")
    ```
-<p>ide írok valamit és **NAGY LESZ**</p>
